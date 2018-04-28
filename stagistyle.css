@@ -1,0 +1,44 @@
+body {
+    background: lightgrey
+}
+
+section {
+    background: white;
+
+}
+.wrapper {
+    width: 70%;
+    padding: 0;
+    margin: 5% auto;
+}
+
+
+.round {
+    position: relative;
+    border-radius: 50%;
+    top: -15px;
+}
+
+.part1 {
+    float: left;
+    width: 40%;
+    padding: 5%;
+
+}
+
+.part2 {
+    float: left;
+    width: 40%;
+    padding: 5%;
+
+}
+
+.skill {
+    padding: 2%;
+    color: white;
+    background: purple;
+}
+
+.bold {
+    font-weight: bold;
+}
